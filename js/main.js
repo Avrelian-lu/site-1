@@ -5,7 +5,6 @@ $(function(){
         nextArrow:
           '<button type="button" class="slick-next slick-btn"><img src="images/nextarrow.svg" alt=""></button>',
         autoplay: true,
-        fade: true, 
         responsive: [{
           breakpoint: 700,
           settings: {
